@@ -11,8 +11,9 @@
 Desafio de Projeto da DIO
 </p>
 
+<h2 align="center">
 Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha carreira, incluir  as atividades da Digital Innovation One.
 
  
-## Desafio da dio: Construindo um aplicativo usando o sensor de movimento com React Native
+
 
